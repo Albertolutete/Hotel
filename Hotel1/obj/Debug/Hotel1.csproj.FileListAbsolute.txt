@@ -1,0 +1,16 @@
+C:\ws-vs2019\Hotel1\Hotel1\bin\Debug\Hotel1.exe.config
+C:\ws-vs2019\Hotel1\Hotel1\bin\Debug\Hotel1.exe
+C:\ws-vs2019\Hotel1\Hotel1\bin\Debug\Hotel1.pdb
+C:\ws-vs2019\Hotel1\Hotel1\obj\Debug\Hotel1.csprojAssemblyReference.cache
+C:\ws-vs2019\Hotel1\Hotel1\obj\Debug\Hotel1.Login.resources
+C:\ws-vs2019\Hotel1\Hotel1\obj\Debug\Hotel1.Properties.Resources.resources
+C:\ws-vs2019\Hotel1\Hotel1\obj\Debug\Hotel1.csproj.GenerateResource.cache
+C:\ws-vs2019\Hotel1\Hotel1\obj\Debug\Hotel1.csproj.CoreCompileInputs.cache
+C:\ws-vs2019\Hotel1\Hotel1\obj\Debug\Hotel1.exe
+C:\ws-vs2019\Hotel1\Hotel1\obj\Debug\Hotel1.pdb
+C:\ws-vs2019\Hotel1\Hotel1\obj\Debug\Hotel1.FormPrincipal.resources
+C:\ws-vs2019\Hotel1\Hotel1\bin\Debug\MetroFramework.dll
+C:\ws-vs2019\Hotel1\Hotel1\obj\Debug\Hotel1.csproj.CopyComplete
+C:\ws-vs2019\Hotel1\Hotel1\obj\Debug\Hotel1.Quarto.resources
+C:\ws-vs2019\Hotel1\Hotel1\obj\Debug\Hotel1.Funcionario.resources
+C:\ws-vs2019\Hotel1\Hotel1\obj\Debug\Hotel1.Hospede.resources
