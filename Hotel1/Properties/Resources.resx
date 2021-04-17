@@ -118,47 +118,32 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="iconfinder-home-4341294_120570" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\iconfinder-home-4341294_120570.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="get_info_13806" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\get_info_13806.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="funcionario1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\funcionario1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="imagem de hote 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\imagem de hote 1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="report_file_icon_148347" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\report_file_icon_148347.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="25_113671" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\25_113671.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="3615751-banknote-cash-cheque-money-order-payment-voucher_107903" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\3615751-banknote-cash-cheque-money-order-payment-voucher_107903.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="hospede" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\hospede.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Quarto" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Quarto.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="pic1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pic1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="depositphotos_110372792-stock-photo-the-venetian-macau-resort-hotel" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\depositphotos_110372792-stock-photo-the-venetian-macau-resort-hotel.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="eyevision_122854" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\eyevision_122854.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Home3_37171" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Home3_37171.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="15091f6b67da5a6b6bd197669fcada64" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\15091f6b67da5a6b6bd197669fcada64.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="reserva" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\reserva.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="eyevision_122854" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\eyevision_122854.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hospede" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hospede.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="3615751-banknote-cash-cheque-money-order-payment-voucher_107903" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3615751-banknote-cash-cheque-money-order-payment-voucher_107903.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="6ea6dbf4e12f629c9cd89a1cafd0e0d2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\6ea6dbf4e12f629c9cd89a1cafd0e0d2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="eyevision_1228541" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\eyevision_1228541.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="funcionario" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\funcionario.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="pequenho home" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pequenho home.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -166,22 +151,55 @@
   <data name="images2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\images2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="hotelroomInterior_700px_op" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\hotelroomInterior_700px_op.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Quarto" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quarto.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="reserva1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\reserva1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="funcionario" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\funcionario.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="depositphotos_110372792-stock-photo-the-venetian-macau-resort-hotel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\depositphotos_110372792-stock-photo-the-venetian-macau-resort-hotel.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="0mvvjwbigz941" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\0mvvjwbigz941.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="iconfinder-home-4341294_120570" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\iconfinder-home-4341294_120570.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="reserva" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\reserva.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="25_113671" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\25_113671.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="report_file_icon_148347" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\report_file_icon_148347.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pic1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pic1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hotelroomInterior_700px_op" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hotelroomInterior_700px_op.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="images" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\images.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="reserva1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\reserva1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="user_add_21977" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\user_add_21977.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1486564412-plus_81511" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1486564412-plus_81511.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="funcionario1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\funcionario1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1486564412-plus_815111" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1486564412-plus_815111.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="imagem de hote 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\imagem de hote 1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="get_info_138061" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\get_info_138061.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

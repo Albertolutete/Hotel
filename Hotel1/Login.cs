@@ -14,11 +14,17 @@ using MetroFramework.Forms;
 namespace Hotel1
 {
     public partial class Login : MetroForm
-    {    //refercia da conexao//
-        SqlConnection conexao = new SqlConnection(@"Data Source=DESKTOP-7E8C27T\SQLEXPRESS;Initial Catalog=Hotel1;Integrated Security=True");
+    {
+
+   
+        
+        //refercia da conexao//
+        SqlConnection conexao = new SqlConnection(@"Data Source=DESKTOP-7E8C27T\SQLEXPRESS;Initial Catalog=Login;Integrated Security=True");
         public Login()
         {
             InitializeComponent();
+            
+
             tbxUsuario.Select();
         }
         void verificar()
@@ -39,7 +45,7 @@ namespace Hotel1
         private void btnEntrar_Click(object sender, EventArgs e)
         {
             conexao.Open(); //abrir conexao//
-            verificar();
+           
             string query = "SELECT *FROM Usuario WHERE Usuario ='" +tbxUsuario.Text+"'AND Senha =  '"+tbxSenha.Text+ "'";
             SqlDataAdapter dp = new SqlDataAdapter(query, conexao);
             DataTable dt = new DataTable();
@@ -50,9 +56,10 @@ namespace Hotel1
             {
                 if (dt.Rows.Count == 1)
                 {
-                    FormPrincipal principal = new FormPrincipal();
-                    principal.Show();
-                    this.Hide();
+                     FormPrincipal principal = new FormPrincipal();
+                      principal.Show();
+                     this.Hide();
+                    
 
 
                 }
@@ -66,9 +73,10 @@ namespace Hotel1
                     tbxSenha.Text = "";
                     tbxUsuario.Select();//selecionar primeira txtbox//
 
-                
-            }
 
+               
+            }
+            verificar();
             conexao.Close();
 
         }

@@ -14,3 +14,4 @@ C:\ws-vs2019\Hotel1\Hotel1\obj\Debug\Hotel1.csproj.CopyComplete
 C:\ws-vs2019\Hotel1\Hotel1\obj\Debug\Hotel1.Quarto.resources
 C:\ws-vs2019\Hotel1\Hotel1\obj\Debug\Hotel1.Funcionario.resources
 C:\ws-vs2019\Hotel1\Hotel1\obj\Debug\Hotel1.Hospede.resources
+C:\ws-vs2019\Hotel1\Hotel1\obj\Debug\Hotel1.TesteCadastro.resources

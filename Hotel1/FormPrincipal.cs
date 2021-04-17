@@ -15,9 +15,10 @@ namespace Hotel1
         public FormPrincipal()
         {
             InitializeComponent();
-            foto1.Visible = false;
-            foto2.Visible = false;
-            foto3.Visible = false;
+         
+         
+            
+           
         }
 
         private void FormPrincipal_Load(object sender, EventArgs e)

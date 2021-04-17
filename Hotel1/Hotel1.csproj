@@ -85,6 +85,12 @@
     <Compile Include="Quarto.Designer.cs">
       <DependentUpon>Quarto.cs</DependentUpon>
     </Compile>
+    <Compile Include="TesteCadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TesteCadastro.Designer.cs">
+      <DependentUpon>TesteCadastro.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="FormPrincipal.resx">
       <DependentUpon>FormPrincipal.cs</DependentUpon>
     </EmbeddedResource>
@@ -109,6 +115,9 @@
     </Compile>
     <EmbeddedResource Include="Quarto.resx">
       <DependentUpon>Quarto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TesteCadastro.resx">
+      <DependentUpon>TesteCadastro.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
@@ -189,6 +198,24 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\user_add_21977.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home3_37171.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1486564412-plus_81511.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1486564412-plus_815111.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eyevision_1228541.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\get_info_13806.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\get_info_138061.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

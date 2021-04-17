@@ -117,30 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="reservarToolStripMenuItem.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
-        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAAsTAAALEwEAmpwYAAADgklE
-        QVRoQ+3ZS0hUURzHcSvDNNGIoBdoha7NVZG1SCxcZWX2IHctimrTAyKojSDtchUuMhdlj1UFBRW47LEJ
-        oqCMoKAHaEmli0LNR99f/E9ch6ueO/c6Gs0fPojOOef+f3funTnj5ESp6qaHMgc78AZjMY3gK56hCavx
-        5ziJl1sY2/AeYQ3FMYwn2IRkQ9iCOvN1+AB30FEMYTBNmhsMIS9RATt6zNJCCGteenEE26HLKqp6HMZ9
-        BMNcRh6sizRLCxg1/xHB5kWBymEzopXmmUW4CLduD+I9C5qMic68EyuAK81HJbqhdXU/NMBGRCxNxFTN
-        S5IBluAp3Nq6tGxEhNIkM9FlE5RkgGI8glv7BGyEZ2kCfM68M50BjsNGeJQGI0rzMjsCaKDxuWyCZj6A
-        BiHqmXdmRQA1r+1B1OYl6QCP4db2DqAzn+7e5jmWwVZLrzQfBbgBt7Z3gK7ApCgGcAp6Bm219ErzTQmu
-        QLtUv5dRBmlDpob0U3sbXRZTeQE1Xwhbyb8aOw9KHlZgOebrb1oLS3EPJ73WZpA7o9pMaWO2BrquJ6PL
-        Zi5sFb9Sk6Yc7XiNV7iA0sbOQy5EDQ54rc8gF0DbW+0Q7ZHkiyalCLcxluIqCuraW9VTEdZ69cKgTAeo
-        Qh9SA3xGJdyzkOvVC4MyHaABg0gNoL9thY32rBkIsBdDSA3wC7Ww0Z6VDRCh1ByyAcZVNkCEUnPIBhhX
-        /3UAHcwUYwO2oGYS1WiGmk0NMIzT2IywuY6OsQ6FSCSANmba2/TjJ35MIexd2BlA2JwgHeM7rqEs7QBM
-        Fm2DLyGsmek2io64AVZCW+KwA2RCTxIBumyxmdAdN0AuWm2xTBtBWxI38Srow0gvdIPqFWYyerUJa0j0
-        WNicIB1Dnx3aUJpEAFkIfRjRfl6v5RPRS+A5qJGw5s9AY8LmOnq8AvmYkTeyPci+E/+tbIAIpeaQDTCu
-        rHEF0L/z9v2LAT5ZAGlWAJmOUnNIPMAda17eoQrTEkLNIfEA+jqzDy7EW+iZ0OWkeyKundiIefsfHFWA
-        ekz0jy29SVlnnsXC+WiBvpt1IUS/6/6IS+voi4vi3TfPKsB6fENqgB7oHdY68ywWlsU4j34EQyRFX2BX
-        1LbcUgB9krqOYPPa22tvswDWWYRicfdM7MJd6MbWFxhhzaTrGNx9UIYOfIHOvJovgXXkWzk5vwGkDQQY
-        sP1JFgAAAABJRU5ErkJggg==
-</value>
-  </data>
 </root>

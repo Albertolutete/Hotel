@@ -73,6 +73,26 @@ namespace Hotel1.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _1486564412_plus_81511 {
+            get {
+                object obj = ResourceManager.GetObject("1486564412-plus_81511", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _1486564412_plus_815111 {
+            get {
+                object obj = ResourceManager.GetObject("1486564412-plus_815111", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _15091f6b67da5a6b6bd197669fcada64 {
             get {
                 object obj = ResourceManager.GetObject("15091f6b67da5a6b6bd197669fcada64", resourceCulture);
@@ -133,6 +153,16 @@ namespace Hotel1.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap eyevision_1228541 {
+            get {
+                object obj = ResourceManager.GetObject("eyevision_1228541", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap funcionario {
             get {
                 object obj = ResourceManager.GetObject("funcionario", resourceCulture);
@@ -146,6 +176,36 @@ namespace Hotel1.Properties {
         internal static System.Drawing.Bitmap funcionario1 {
             get {
                 object obj = ResourceManager.GetObject("funcionario1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap get_info_13806 {
+            get {
+                object obj = ResourceManager.GetObject("get_info_13806", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap get_info_138061 {
+            get {
+                object obj = ResourceManager.GetObject("get_info_138061", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Home3_37171 {
+            get {
+                object obj = ResourceManager.GetObject("Home3_37171", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
