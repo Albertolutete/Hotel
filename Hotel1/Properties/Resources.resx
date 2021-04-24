@@ -145,14 +145,26 @@
   <data name="funcionario" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\funcionario.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="pic11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pic11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="pequenho home" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pequenho home.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="images2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\images2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="0mvvjwbigz9411" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\0mvvjwbigz9411.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Quarto" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Quarto.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hotelroomInterior_700px_op1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hotelroomInterior_700px_op1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="get_info_138061" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\get_info_138061.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="depositphotos_110372792-stock-photo-the-venetian-macau-resort-hotel" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\depositphotos_110372792-stock-photo-the-venetian-macau-resort-hotel.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -178,14 +190,35 @@
   <data name="hotelroomInterior_700px_op" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\hotelroomInterior_700px_op.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="hotel_vacations_hotel_buildings_holidays_icon_128587" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hotel_vacations_hotel_buildings_holidays_icon_128587.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bellagio-Hotel-Casino-Las-Vegas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Bellagio-Hotel-Casino-Las-Vegas.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="images" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\images.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="unnamed" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\unnamed.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="reserva1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\reserva1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="user_add_21977" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\user_add_21977.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1486395874-settings_80622" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1486395874-settings_80622.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="6ea6dbf4e12f629c9cd89a1cafd0e0d21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6ea6dbf4e12f629c9cd89a1cafd0e0d21.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="suites-fr" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\suites-fr.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hotel-Bela-Vista_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hotel-Bela-Vista_1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="1486564412-plus_81511" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\1486564412-plus_81511.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -199,7 +232,7 @@
   <data name="imagem de hote 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\imagem de hote 1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="get_info_138061" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\get_info_138061.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="hotel_vacations_hotel_buildings_holidays_icon_1285871" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hotel_vacations_hotel_buildings_holidays_icon_1285871.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

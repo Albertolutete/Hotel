@@ -19,7 +19,7 @@ namespace Hotel1
    
         
         //refercia da conexao//
-        SqlConnection conexao = new SqlConnection(@"Data Source=DESKTOP-7E8C27T\SQLEXPRESS;Initial Catalog=Login;Integrated Security=True");
+        SqlConnection conexao = new SqlConnection(@"Data Source=DESKTOP-7E8C27T\SQLEXPRESS;Initial Catalog=Hotel1;Integrated Security=True");
         public Login()
         {
             InitializeComponent();
@@ -45,11 +45,12 @@ namespace Hotel1
         private void btnEntrar_Click(object sender, EventArgs e)
         {
             conexao.Open(); //abrir conexao//
-           
+            verificar();
             string query = "SELECT *FROM Usuario WHERE Usuario ='" +tbxUsuario.Text+"'AND Senha =  '"+tbxSenha.Text+ "'";
             SqlDataAdapter dp = new SqlDataAdapter(query, conexao);
             DataTable dt = new DataTable();
             dp.Fill(dt);
+
 
 
             try
@@ -60,23 +61,24 @@ namespace Hotel1
                       principal.Show();
                      this.Hide();
                     
-
-
                 }
-            }
-              catch(Exception erro)
-            { 
-                  
-                
-                    MessageBox.Show("usuario ou password incorreta " + erro );
+                else
+                {
+                    MessageBox.Show("Usuario nao cadastrado");
                     tbxUsuario.Text = "";//limpar txtbox//
                     tbxSenha.Text = "";
-                    tbxUsuario.Select();//selecionar primeira txtbox//
+                 
+                }
+            }
+              catch(Exception )
+            {
+
+                throw;
 
 
                
             }
-            verificar();
+           
             conexao.Close();
 
         }

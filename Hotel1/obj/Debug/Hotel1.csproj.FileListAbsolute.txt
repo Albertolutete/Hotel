@@ -15,3 +15,7 @@ C:\ws-vs2019\Hotel1\Hotel1\obj\Debug\Hotel1.Quarto.resources
 C:\ws-vs2019\Hotel1\Hotel1\obj\Debug\Hotel1.Funcionario.resources
 C:\ws-vs2019\Hotel1\Hotel1\obj\Debug\Hotel1.Hospede.resources
 C:\ws-vs2019\Hotel1\Hotel1\obj\Debug\Hotel1.TesteCadastro.resources
+C:\ws-vs2019\Hotel1\Hotel1\obj\Debug\Hotel1.Reserva.resources
+C:\ws-vs2019\Hotel1\Hotel1\obj\Debug\Hotel1.Consulta_Reserva.resources
+C:\ws-vs2019\Hotel1\Hotel1\obj\Debug\Hotel1.CadUsuario.resources
+C:\ws-vs2019\Hotel1\Hotel1\obj\Debug\Hotel1.Usuario.resources

@@ -53,6 +53,27 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuario.Designer.cs">
+      <DependentUpon>Usuario.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Usuario.resx">
+      <DependentUpon>Usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Usuario">
+      <SubType>Form</SubType>
+    </None>
+    <Compile Include="CadUsuario.Designer.cs">
+      <DependentUpon>Usuario</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta Reserva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta Reserva.Designer.cs">
+      <DependentUpon>Consulta Reserva.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -85,12 +106,24 @@
     <Compile Include="Quarto.Designer.cs">
       <DependentUpon>Quarto.cs</DependentUpon>
     </Compile>
+    <Compile Include="Reserva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reserva.Designer.cs">
+      <DependentUpon>Reserva.cs</DependentUpon>
+    </Compile>
     <Compile Include="TesteCadastro.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="TesteCadastro.Designer.cs">
       <DependentUpon>TesteCadastro.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="CadUsuario.resx">
+      <DependentUpon>Usuario</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta Reserva.resx">
+      <DependentUpon>Consulta Reserva.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormPrincipal.resx">
       <DependentUpon>FormPrincipal.cs</DependentUpon>
     </EmbeddedResource>
@@ -115,6 +148,9 @@
     </Compile>
     <EmbeddedResource Include="Quarto.resx">
       <DependentUpon>Quarto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reserva.resx">
+      <DependentUpon>Reserva.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="TesteCadastro.resx">
       <DependentUpon>TesteCadastro.cs</DependentUpon>
@@ -216,6 +252,39 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\get_info_138061.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1486395874-settings_80622.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hotel-Bela-Vista_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hotelroomInterior_700px_op1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6ea6dbf4e12f629c9cd89a1cafd0e0d21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0mvvjwbigz9411.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\suites-fr.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hotel_vacations_hotel_buildings_holidays_icon_128587.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bellagio-Hotel-Casino-Las-Vegas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hotel_vacations_hotel_buildings_holidays_icon_1285871.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

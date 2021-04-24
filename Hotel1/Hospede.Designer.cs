@@ -31,126 +31,74 @@ namespace Hotel1
         {
             this.btn_excluir = new MetroFramework.Controls.MetroButton();
             this.btn_editar = new MetroFramework.Controls.MetroButton();
-            this.btn_salvar = new MetroFramework.Controls.MetroButton();
-            this.tbx_endereço = new MetroFramework.Controls.MetroTextBox();
-            this.metroTextBox1 = new MetroFramework.Controls.MetroTextBox();
-            this.tbx_cpf = new MetroFramework.Controls.MetroTextBox();
-            this.btn_addicionar = new MetroFramework.Controls.MetroButton();
-            this.metroComboBox2 = new MetroFramework.Controls.MetroComboBox();
-            this.metroComboBox1 = new MetroFramework.Controls.MetroComboBox();
+            this.txtcidade = new MetroFramework.Controls.MetroTextBox();
+            this.TxtCpf = new MetroFramework.Controls.MetroTextBox();
+            this.tbxTel = new MetroFramework.Controls.MetroTextBox();
             this.metroLabel5 = new MetroFramework.Controls.MetroLabel();
-            this.metroLabel4 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel3 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel2 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel1 = new MetroFramework.Controls.MetroLabel();
             this.btn_add = new MetroFramework.Controls.MetroButton();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.txtNome = new MetroFramework.Controls.MetroTextBox();
+            this.txtEstado = new MetroFramework.Controls.MetroTextBox();
+            this.metroLabel4 = new MetroFramework.Controls.MetroLabel();
+            this.txtId = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
             // btn_excluir
             // 
-            this.btn_excluir.Location = new System.Drawing.Point(416, 409);
+            this.btn_excluir.Location = new System.Drawing.Point(333, 409);
             this.btn_excluir.Name = "btn_excluir";
-            this.btn_excluir.Size = new System.Drawing.Size(71, 49);
+            this.btn_excluir.Size = new System.Drawing.Size(71, 34);
             this.btn_excluir.TabIndex = 30;
             this.btn_excluir.Text = "Excluir";
+            this.btn_excluir.Click += new System.EventHandler(this.btn_excluir_Click);
             // 
             // btn_editar
             // 
-            this.btn_editar.Location = new System.Drawing.Point(298, 409);
+            this.btn_editar.Location = new System.Drawing.Point(201, 409);
             this.btn_editar.Name = "btn_editar";
-            this.btn_editar.Size = new System.Drawing.Size(71, 49);
+            this.btn_editar.Size = new System.Drawing.Size(71, 34);
             this.btn_editar.TabIndex = 29;
             this.btn_editar.Text = "Editar";
+            this.btn_editar.Click += new System.EventHandler(this.btn_editar_Click);
             // 
-            // btn_salvar
+            // txtcidade
             // 
-            this.btn_salvar.Location = new System.Drawing.Point(176, 409);
-            this.btn_salvar.Name = "btn_salvar";
-            this.btn_salvar.Size = new System.Drawing.Size(80, 49);
-            this.btn_salvar.TabIndex = 28;
-            this.btn_salvar.Text = "Salvar";
+            this.txtcidade.Location = new System.Drawing.Point(344, 96);
+            this.txtcidade.Name = "txtcidade";
+            this.txtcidade.Size = new System.Drawing.Size(187, 23);
+            this.txtcidade.TabIndex = 27;
             // 
-            // tbx_endereço
+            // TxtCpf
             // 
-            this.tbx_endereço.Location = new System.Drawing.Point(640, 66);
-            this.tbx_endereço.Name = "tbx_endereço";
-            this.tbx_endereço.Size = new System.Drawing.Size(187, 23);
-            this.tbx_endereço.TabIndex = 27;
+            this.TxtCpf.Location = new System.Drawing.Point(321, 63);
+            this.TxtCpf.Name = "TxtCpf";
+            this.TxtCpf.Size = new System.Drawing.Size(144, 23);
+            this.TxtCpf.TabIndex = 26;
             // 
-            // metroTextBox1
+            // tbxTel
             // 
-            this.metroTextBox1.Location = new System.Drawing.Point(375, 64);
-            this.metroTextBox1.Name = "metroTextBox1";
-            this.metroTextBox1.Size = new System.Drawing.Size(144, 23);
-            this.metroTextBox1.TabIndex = 26;
-            // 
-            // tbx_cpf
-            // 
-            this.tbx_cpf.Location = new System.Drawing.Point(375, 121);
-            this.tbx_cpf.Name = "tbx_cpf";
-            this.tbx_cpf.Size = new System.Drawing.Size(160, 23);
-            this.tbx_cpf.TabIndex = 25;
-            // 
-            // btn_addicionar
-            // 
-            this.btn_addicionar.Location = new System.Drawing.Point(292, 127);
-            this.btn_addicionar.Name = "btn_addicionar";
-            this.btn_addicionar.Size = new System.Drawing.Size(17, 17);
-            this.btn_addicionar.TabIndex = 24;
-            // 
-            // metroComboBox2
-            // 
-            this.metroComboBox2.FormattingEnabled = true;
-            this.metroComboBox2.ItemHeight = 23;
-            this.metroComboBox2.Location = new System.Drawing.Point(91, 115);
-            this.metroComboBox2.Name = "metroComboBox2";
-            this.metroComboBox2.Size = new System.Drawing.Size(195, 29);
-            this.metroComboBox2.TabIndex = 23;
-            // 
-            // metroComboBox1
-            // 
-            this.metroComboBox1.FormattingEnabled = true;
-            this.metroComboBox1.ItemHeight = 23;
-            this.metroComboBox1.Items.AddRange(new object[] {
-            "1",
-            "2",
-            "3",
-            "4",
-            "5",
-            "6",
-            "7",
-            "8",
-            "9",
-            "10"});
-            this.metroComboBox1.Location = new System.Drawing.Point(115, 66);
-            this.metroComboBox1.Name = "metroComboBox1";
-            this.metroComboBox1.Size = new System.Drawing.Size(121, 29);
-            this.metroComboBox1.TabIndex = 22;
+            this.tbxTel.Location = new System.Drawing.Point(91, 92);
+            this.tbxTel.Name = "tbxTel";
+            this.tbxTel.Size = new System.Drawing.Size(160, 23);
+            this.tbxTel.TabIndex = 25;
             // 
             // metroLabel5
             // 
             this.metroLabel5.AutoSize = true;
-            this.metroLabel5.Location = new System.Drawing.Point(563, 70);
+            this.metroLabel5.Location = new System.Drawing.Point(284, 96);
             this.metroLabel5.Name = "metroLabel5";
-            this.metroLabel5.Size = new System.Drawing.Size(71, 19);
+            this.metroLabel5.Size = new System.Drawing.Size(54, 19);
             this.metroLabel5.TabIndex = 21;
-            this.metroLabel5.Text = "Endereço :";
-            // 
-            // metroLabel4
-            // 
-            this.metroLabel4.AutoSize = true;
-            this.metroLabel4.Location = new System.Drawing.Point(32, 66);
-            this.metroLabel4.Name = "metroLabel4";
-            this.metroLabel4.Size = new System.Drawing.Size(59, 19);
-            this.metroLabel4.TabIndex = 20;
-            this.metroLabel4.Text = "Quarto :";
+            this.metroLabel5.Text = "Cidade:";
             // 
             // metroLabel3
             // 
             this.metroLabel3.AutoSize = true;
-            this.metroLabel3.Location = new System.Drawing.Point(333, 125);
+            this.metroLabel3.Location = new System.Drawing.Point(32, 92);
             this.metroLabel3.Name = "metroLabel3";
             this.metroLabel3.Size = new System.Drawing.Size(36, 19);
             this.metroLabel3.TabIndex = 19;
@@ -159,7 +107,7 @@ namespace Hotel1
             // metroLabel2
             // 
             this.metroLabel2.AutoSize = true;
-            this.metroLabel2.Location = new System.Drawing.Point(313, 66);
+            this.metroLabel2.Location = new System.Drawing.Point(284, 66);
             this.metroLabel2.Name = "metroLabel2";
             this.metroLabel2.Size = new System.Drawing.Size(40, 19);
             this.metroLabel2.TabIndex = 18;
@@ -168,7 +116,7 @@ namespace Hotel1
             // metroLabel1
             // 
             this.metroLabel1.AutoSize = true;
-            this.metroLabel1.Location = new System.Drawing.Point(32, 121);
+            this.metroLabel1.Location = new System.Drawing.Point(32, 66);
             this.metroLabel1.Name = "metroLabel1";
             this.metroLabel1.Size = new System.Drawing.Size(53, 19);
             this.metroLabel1.TabIndex = 17;
@@ -178,9 +126,10 @@ namespace Hotel1
             // 
             this.btn_add.Location = new System.Drawing.Point(62, 409);
             this.btn_add.Name = "btn_add";
-            this.btn_add.Size = new System.Drawing.Size(71, 49);
+            this.btn_add.Size = new System.Drawing.Size(71, 34);
             this.btn_add.TabIndex = 16;
             this.btn_add.Text = "Adicionar";
+            this.btn_add.Click += new System.EventHandler(this.btn_add_Click);
             // 
             // dataGridView1
             // 
@@ -189,24 +138,55 @@ namespace Hotel1
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.Size = new System.Drawing.Size(635, 150);
             this.dataGridView1.TabIndex = 31;
+            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
+            // 
+            // txtNome
+            // 
+            this.txtNome.Location = new System.Drawing.Point(91, 63);
+            this.txtNome.Name = "txtNome";
+            this.txtNome.Size = new System.Drawing.Size(160, 23);
+            this.txtNome.TabIndex = 32;
+            // 
+            // txtEstado
+            // 
+            this.txtEstado.Location = new System.Drawing.Point(556, 63);
+            this.txtEstado.Name = "txtEstado";
+            this.txtEstado.Size = new System.Drawing.Size(187, 23);
+            this.txtEstado.TabIndex = 34;
+            this.txtEstado.Click += new System.EventHandler(this.metroTextBox1_Click);
+            // 
+            // metroLabel4
+            // 
+            this.metroLabel4.AutoSize = true;
+            this.metroLabel4.Location = new System.Drawing.Point(496, 63);
+            this.metroLabel4.Name = "metroLabel4";
+            this.metroLabel4.Size = new System.Drawing.Size(48, 19);
+            this.metroLabel4.TabIndex = 33;
+            this.metroLabel4.Text = "Estado";
+            // 
+            // txtId
+            // 
+            this.txtId.Location = new System.Drawing.Point(694, 98);
+            this.txtId.Name = "txtId";
+            this.txtId.Size = new System.Drawing.Size(100, 20);
+            this.txtId.TabIndex = 35;
             // 
             // Hospede
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(845, 489);
+            this.Controls.Add(this.txtId);
+            this.Controls.Add(this.txtEstado);
+            this.Controls.Add(this.metroLabel4);
+            this.Controls.Add(this.txtNome);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.btn_excluir);
             this.Controls.Add(this.btn_editar);
-            this.Controls.Add(this.btn_salvar);
-            this.Controls.Add(this.tbx_endereço);
-            this.Controls.Add(this.metroTextBox1);
-            this.Controls.Add(this.tbx_cpf);
-            this.Controls.Add(this.btn_addicionar);
-            this.Controls.Add(this.metroComboBox2);
-            this.Controls.Add(this.metroComboBox1);
+            this.Controls.Add(this.txtcidade);
+            this.Controls.Add(this.TxtCpf);
+            this.Controls.Add(this.tbxTel);
             this.Controls.Add(this.metroLabel5);
-            this.Controls.Add(this.metroLabel4);
             this.Controls.Add(this.metroLabel3);
             this.Controls.Add(this.metroLabel2);
             this.Controls.Add(this.metroLabel1);
@@ -224,19 +204,18 @@ namespace Hotel1
 
         private MetroFramework.Controls.MetroButton btn_excluir;
         private MetroFramework.Controls.MetroButton btn_editar;
-        private MetroFramework.Controls.MetroButton btn_salvar;
-        private MetroFramework.Controls.MetroTextBox tbx_endereço;
-        private MetroFramework.Controls.MetroTextBox metroTextBox1;
-        private MetroFramework.Controls.MetroTextBox tbx_cpf;
-        private MetroFramework.Controls.MetroButton btn_addicionar;
-        private MetroFramework.Controls.MetroComboBox metroComboBox2;
-        private MetroFramework.Controls.MetroComboBox metroComboBox1;
+        private MetroFramework.Controls.MetroTextBox txtcidade;
+        private MetroFramework.Controls.MetroTextBox TxtCpf;
+        private MetroFramework.Controls.MetroTextBox tbxTel;
         private MetroFramework.Controls.MetroLabel metroLabel5;
-        private MetroFramework.Controls.MetroLabel metroLabel4;
         private MetroFramework.Controls.MetroLabel metroLabel3;
         private MetroFramework.Controls.MetroLabel metroLabel2;
         private MetroFramework.Controls.MetroLabel metroLabel1;
         private MetroFramework.Controls.MetroButton btn_add;
         private System.Windows.Forms.DataGridView dataGridView1;
+        private MetroFramework.Controls.MetroTextBox txtNome;
+        private MetroFramework.Controls.MetroTextBox txtEstado;
+        private MetroFramework.Controls.MetroLabel metroLabel4;
+        private System.Windows.Forms.TextBox txtId;
     }
 }

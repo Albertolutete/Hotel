@@ -32,7 +32,7 @@ namespace Hotel1
             this.label1 = new System.Windows.Forms.Label();
             this.cmbxTipo = new System.Windows.Forms.ComboBox();
             this.tbxNumero = new System.Windows.Forms.TextBox();
-            this.btnCadastrar = new System.Windows.Forms.Button();
+            this.btnAdicionar = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.tbxAndar = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
@@ -40,7 +40,7 @@ namespace Hotel1
             this.tbxValor = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.btnAlterar = new System.Windows.Forms.Button();
-            this.btnApagar = new System.Windows.Forms.Button();
+            this.btnEliminar = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -71,14 +71,14 @@ namespace Hotel1
             this.tbxNumero.Size = new System.Drawing.Size(100, 20);
             this.tbxNumero.TabIndex = 2;
             // 
-            // btnCadastrar
+            // btnAdicionar
             // 
-            this.btnCadastrar.Location = new System.Drawing.Point(88, 429);
-            this.btnCadastrar.Name = "btnCadastrar";
-            this.btnCadastrar.Size = new System.Drawing.Size(75, 23);
-            this.btnCadastrar.TabIndex = 3;
-            this.btnCadastrar.Text = "Cadastrar";
-            this.btnCadastrar.UseVisualStyleBackColor = true;
+            this.btnAdicionar.Location = new System.Drawing.Point(54, 354);
+            this.btnAdicionar.Name = "btnAdicionar";
+            this.btnAdicionar.Size = new System.Drawing.Size(75, 23);
+            this.btnAdicionar.TabIndex = 3;
+            this.btnAdicionar.Text = "Adicionar";
+            this.btnAdicionar.UseVisualStyleBackColor = true;
             // 
             // label2
             // 
@@ -108,9 +108,9 @@ namespace Hotel1
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(56, 173);
+            this.dataGridView1.Location = new System.Drawing.Point(23, 152);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(535, 193);
+            this.dataGridView1.Size = new System.Drawing.Size(592, 147);
             this.dataGridView1.TabIndex = 8;
             // 
             // tbxValor
@@ -131,28 +131,28 @@ namespace Hotel1
             // 
             // btnAlterar
             // 
-            this.btnAlterar.Location = new System.Drawing.Point(211, 429);
+            this.btnAlterar.Location = new System.Drawing.Point(171, 354);
             this.btnAlterar.Name = "btnAlterar";
             this.btnAlterar.Size = new System.Drawing.Size(75, 23);
             this.btnAlterar.TabIndex = 11;
             this.btnAlterar.Text = "Alterar";
             this.btnAlterar.UseVisualStyleBackColor = true;
             // 
-            // btnApagar
+            // btnEliminar
             // 
-            this.btnApagar.Location = new System.Drawing.Point(328, 429);
-            this.btnApagar.Name = "btnApagar";
-            this.btnApagar.Size = new System.Drawing.Size(75, 23);
-            this.btnApagar.TabIndex = 12;
-            this.btnApagar.Text = "Apagar";
-            this.btnApagar.UseVisualStyleBackColor = true;
+            this.btnEliminar.Location = new System.Drawing.Point(284, 354);
+            this.btnEliminar.Name = "btnEliminar";
+            this.btnEliminar.Size = new System.Drawing.Size(75, 23);
+            this.btnEliminar.TabIndex = 12;
+            this.btnEliminar.Text = "Eliminar";
+            this.btnEliminar.UseVisualStyleBackColor = true;
             // 
             // Quarto
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(654, 500);
-            this.Controls.Add(this.btnApagar);
+            this.ClientSize = new System.Drawing.Size(756, 391);
+            this.Controls.Add(this.btnEliminar);
             this.Controls.Add(this.btnAlterar);
             this.Controls.Add(this.tbxValor);
             this.Controls.Add(this.label4);
@@ -160,7 +160,7 @@ namespace Hotel1
             this.Controls.Add(this.tbxAndar);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.btnCadastrar);
+            this.Controls.Add(this.btnAdicionar);
             this.Controls.Add(this.tbxNumero);
             this.Controls.Add(this.cmbxTipo);
             this.Controls.Add(this.label1);
@@ -179,7 +179,7 @@ namespace Hotel1
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.ComboBox cmbxTipo;
         private System.Windows.Forms.TextBox tbxNumero;
-        private System.Windows.Forms.Button btnCadastrar;
+        private System.Windows.Forms.Button btnAdicionar;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox tbxAndar;
         private System.Windows.Forms.Label label3;
@@ -187,6 +187,6 @@ namespace Hotel1
         private System.Windows.Forms.TextBox tbxValor;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Button btnAlterar;
-        private System.Windows.Forms.Button btnApagar;
+        private System.Windows.Forms.Button btnEliminar;
     }
 }

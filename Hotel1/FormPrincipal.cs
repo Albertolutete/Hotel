@@ -28,9 +28,7 @@ namespace Hotel1
 
         private void btn_termniar_Click(object sender, EventArgs e)
         {
-            Login login = new Login();
-            this.Close();
-            login.Show();
+         
         }
 
         private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
@@ -58,9 +56,13 @@ namespace Hotel1
 
         private void btbVisualizar_Click(object sender, EventArgs e)
         {
+          
             foto1.Visible = false;
             foto2.Visible = false;
             foto3.Visible = false;
+
+
+
         }
 
         private void btnCheck_Click(object sender, EventArgs e)
@@ -95,6 +97,32 @@ namespace Hotel1
             Hospede n = new Hospede();
             n.ShowDialog();
 
+        }
+
+        private void vagaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Reserva n = new Reserva();
+            n.ShowDialog();
+            
+        }
+
+        private void visualizarVagasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Consulta_Reserva n = new Consulta_Reserva();
+            n.ShowDialog();
+        }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            Login login = new Login();
+            this.Close();
+            login.Show();
+        }
+
+        private void usuariosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Usuario n = new Usuario();
+            n.ShowDialog();
         }
     }
 }

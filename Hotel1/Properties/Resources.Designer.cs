@@ -73,6 +73,26 @@ namespace Hotel1.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _0mvvjwbigz9411 {
+            get {
+                object obj = ResourceManager.GetObject("0mvvjwbigz9411", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _1486395874_settings_80622 {
+            get {
+                object obj = ResourceManager.GetObject("1486395874-settings_80622", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _1486564412_plus_81511 {
             get {
                 object obj = ResourceManager.GetObject("1486564412-plus_81511", resourceCulture);
@@ -126,6 +146,26 @@ namespace Hotel1.Properties {
         internal static System.Drawing.Bitmap _6ea6dbf4e12f629c9cd89a1cafd0e0d2 {
             get {
                 object obj = ResourceManager.GetObject("6ea6dbf4e12f629c9cd89a1cafd0e0d2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _6ea6dbf4e12f629c9cd89a1cafd0e0d21 {
+            get {
+                object obj = ResourceManager.GetObject("6ea6dbf4e12f629c9cd89a1cafd0e0d21", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Bellagio_Hotel_Casino_Las_Vegas {
+            get {
+                object obj = ResourceManager.GetObject("Bellagio-Hotel-Casino-Las-Vegas", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -223,9 +263,49 @@ namespace Hotel1.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Hotel_Bela_Vista_1 {
+            get {
+                object obj = ResourceManager.GetObject("Hotel-Bela-Vista_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap hotel_vacations_hotel_buildings_holidays_icon_128587 {
+            get {
+                object obj = ResourceManager.GetObject("hotel_vacations_hotel_buildings_holidays_icon_128587", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap hotel_vacations_hotel_buildings_holidays_icon_1285871 {
+            get {
+                object obj = ResourceManager.GetObject("hotel_vacations_hotel_buildings_holidays_icon_1285871", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap hotelroomInterior_700px_op {
             get {
                 object obj = ResourceManager.GetObject("hotelroomInterior_700px_op", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap hotelroomInterior_700px_op1 {
+            get {
+                object obj = ResourceManager.GetObject("hotelroomInterior_700px_op1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -293,6 +373,16 @@ namespace Hotel1.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap pic11 {
+            get {
+                object obj = ResourceManager.GetObject("pic11", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Quarto {
             get {
                 object obj = ResourceManager.GetObject("Quarto", resourceCulture);
@@ -326,6 +416,26 @@ namespace Hotel1.Properties {
         internal static System.Drawing.Bitmap reserva1 {
             get {
                 object obj = ResourceManager.GetObject("reserva1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap suites_fr {
+            get {
+                object obj = ResourceManager.GetObject("suites-fr", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap unnamed {
+            get {
+                object obj = ResourceManager.GetObject("unnamed", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
